@@ -11,6 +11,7 @@
 </p>
 
 <p><img align="right" src="/programming.gif" alt="adam-pw" /></p>
+
 - 🌱 I’m currently working with **React** and learning **NestJS**.
 
 - 👨‍💻 Everything about me is available at [my portfolio](https://teddyy.netlify.app/)
@@ -37,7 +38,5 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truongnm97&show_icons=true&locale=en&layout=compact" alt="truongnm97" /></p>
-<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=truongnm97&show_icons=true&locale=en" alt="truongnm97" /></p>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truongnm97&" alt="truongnm97" /></p>
